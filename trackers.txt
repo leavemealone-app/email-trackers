@@ -1,0 +1,37 @@
+! Title: uBlock/Adblock filters -- Email tracking pixels and read-receipt trackers
+! Description: Filters for blocking tracking pixels received in emails to determine 
+!              open rates, read-receipts, and other ethically questionable personal data.
+! License: http://creativecommons.org/licenses/by/3.0/
+! Homepage: https://github.com/subscriptionscore/email-trackers
+! Forums: https://github.com/subscriptionscore/email-trackers/issues
+
+/wf/open^$all
+/open.html^$all
+/track/open.php^$all
+/ut.php^$all
+/trk^$all
+/links.*/oo/^$all
+
+bl-1.com^$all
+t.yesware.com^$all
+pstmrk.it/open^$all
+mailfoogae.appspot.com^$all
+t.signauxtrois.com^$all
+tinyletterapp.com^$all
+track.mixmax.com^$all
+email.mixmax.com^$all
+polymail.io/v2/z.^$all
+contactmonkey.com/api/v1/tracker^$all
+yamm-track.appspot^$all
+tracking.cirrusinsight.com^$all
+mltrk.io/pixel^$all
+mailtrack.io^$all
+toutapp.com^$all
+emltrk.com^$all
+mailstat.us/tr^$all
+close.io/email_opened^$all
+outrch.com/api/mailings/opened^$all
+via.intercom-mail-.com/o^$all
+nethunt.com/api/v1/track/email^$all
+r.superhuman.com^$all
+returnpath.net/pixel.gif^$image
