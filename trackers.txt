@@ -5,34 +5,79 @@
 ! Homepage: https://github.com/subscriptionscore/email-trackers
 ! Forums: https://github.com/subscriptionscore/email-trackers/issues
 
+! Common tracking endpoints
 /wf/open^$all
-/open.html^$all
+!/open.html^$all
 /track/open.php^$all
 /ut.php^$all
 /trk^$all
 /links.*/oo/^$all
 
+! Bananatag (https://bananatag.com/)
 bl-1.com^$all
+
+! Yesware (https://yesware.com)
 t.yesware.com^$all
+
+! Postmark (https://postmarkapp.com/)
 pstmrk.it/open^$all
+
+! mailfoogae (http://www.mailfoogae.appsplot.com/)
 mailfoogae.appspot.com^$all
+
+! Hubspot (https://www.hubspot.com/)
 t.signauxtrois.com^$all
-tinyletterapp.com^$all
+
+! MixMax (https://mixmax.com)
 track.mixmax.com^$all
 email.mixmax.com^$all
-polymail.io/v2/z.^$all
-contactmonkey.com/api/v1/tracker^$all
+
+! Polymail https://polymail.io/
+polymail.io/v2/z.^$image
+
+! ContactMonkey (https://contactmonkey.com)
+contactmonkey.com/api/v1/tracker^$image
+
+! YAMM (https://yet-another-mail-merge.com/)
 yamm-track.appspot^$all
+
+! Cirrus Insight CRM (cirrusinsight.com)
 tracking.cirrusinsight.com^$all
+
+! Mailtrack (mailtrack.io)
 mltrk.io/pixel^$all
 mailtrack.io^$all
+
+! Marketo (marketo.com)
 toutapp.com^$all
-emltrk.com^$all
+
+! Litmus (https://litmus.com)
+emltrk.com^$image
+
+! Boomerang (https://www.boomeranggmail.com/)
 mailstat.us/tr^$all
+
+! Close (https://close.io)
 close.io/email_opened^$all
+
+! Outreach (https://outreach.io)
 outrch.com/api/mailings/opened^$all
+
+! Intercom (https://intercom.com)
 via.intercom-mail-.com/o^$all
+
+! NetHunt CRM (https://nethunt.com/)
 nethunt.com/api/v1/track/email^$all
+
+! Superhuman email client (https://superhuman.com/)
 r.superhuman.com^$all
+
+! Returnpath (https://www.validity.com/products/returnpath/)
 returnpath.net/pixel.gif^$image
+
+! Pigeon (https://trypigeon.co/)
 t.mailpgn.com^$image
+
+! Gmass (https://www.gmass.co/)
+track.gmass.co^$all
+x.gmtrack.net^$all
