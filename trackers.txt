@@ -35,3 +35,4 @@ via.intercom-mail-.com/o^$all
 nethunt.com/api/v1/track/email^$all
 r.superhuman.com^$all
 returnpath.net/pixel.gif^$image
+t.mailpgn.com^$image
