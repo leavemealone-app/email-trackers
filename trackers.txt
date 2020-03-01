@@ -1,4 +1,4 @@
-! Title: uBlock/Adblock filters -- Email tracking pixels and read-receipt trackers
+! Title: LMA's email tracking pixels and read-receipts
 ! Description: Filters for blocking tracking pixels received in emails to determine 
 !              open rates, read-receipts, and other ethically questionable personal data.
 ! License: http://creativecommons.org/licenses/by/3.0/
