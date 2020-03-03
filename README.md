@@ -12,4 +12,4 @@ Add the link `https://raw.githubusercontent.com/subscriptionscore/email-trackers
 
 ---
 
-Sponsored by [Leave Me Alone](https://leavemealone.app)
+Sponsored by [Leave Me Alone](https://leavemealone.app) - easily unsubscribe from unwanted emails!
