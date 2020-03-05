@@ -2,6 +2,8 @@
 
 A list of email pixel trackers for use with Adblock or uBlock.
 
+[Read more about this on our blog.](https://blog.leavemealone.app)
+
 ## Installing
 
 To add to uBlock go to the settings Filter Lists tab and check "Import".
