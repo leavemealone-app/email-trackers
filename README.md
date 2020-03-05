@@ -1,4 +1,4 @@
-# Email Trackers
+# Email Tracker Block List
 
 A list of email pixel trackers for use with Adblock or uBlock.
 
