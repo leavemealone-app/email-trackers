@@ -7,7 +7,6 @@
 
 ! Common tracking endpoints
 /wf/open^$all
-!/open.html^$all
 /track/open.php^$all
 /ut.php^$all
 /trk^$all
@@ -81,3 +80,14 @@ t.mailpgn.com^$image
 ! Gmass (https://www.gmass.co/)
 track.gmass.co^$all
 x.gmtrack.net^$all
+
+! Generic 1x1 pixel css selectors below 👇
+
+! height: 0|1, width: 0|1 in style attribute in any order
+##img[style*="height: 0"][style*="width: 0"]
+##img[style*="height: 1"][style*="width: 1"]
+
+! height=0|1 width=0|1 attributes
+##img[height^="0"][width^="0"]
+##img[height^="1"][width^="1"]
+
