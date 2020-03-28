@@ -2,8 +2,8 @@
 ! Description: Filters for blocking tracking pixels received in emails to determine 
 !              open rates, read-receipts, and other ethically questionable personal data.
 ! License: http://creativecommons.org/licenses/by/3.0/
-! Homepage: https://github.com/subscriptionscore/email-trackers
-! Forums: https://github.com/subscriptionscore/email-trackers/issues
+! Homepage: https://github.com/leavemealone-app/email-trackers
+! Forums: https://github.com/leavemealone-app/email-trackers/issues
 
 ! Common tracking endpoints
 /wf/open^$all
