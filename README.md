@@ -14,4 +14,8 @@ Add the link `https://raw.githubusercontent.com/leavemealone-app/email-trackers/
 
 ---
 
-Sponsored by [Leave Me Alone](https://leavemealone.app) - easily unsubscribe from unwanted emails!
+Created by [Leave Me Alone](https://leavemealone.app)
+
+Remember, it's always in your power to simply unsubscribe from mailing lists that are tracking you! 👀
+
+If you need help with this, [Leave Me Alone](https://leavemealone.app) shows you which mailing lists contain trackers when you run a scan, and you can easily unsubscribe from them with a single click.
