@@ -4,6 +4,7 @@
 ! License: http://creativecommons.org/licenses/by/3.0/
 ! Homepage: https://github.com/leavemealone-app/email-trackers
 ! Forums: https://github.com/leavemealone-app/email-trackers/issues
+! Attribution: Original list from UglyEmail https://github.com/OneClickLab/ugly-email-trackers
 
 ! Common tracking endpoints
 /wf/open^$all
