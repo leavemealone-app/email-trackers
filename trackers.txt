@@ -81,6 +81,9 @@ t.mailpgn.com^$image
 track.gmass.co^$all
 x.gmtrack.net^$all
 
+! Mailchimp (https://mailchimp.com) 
+list-manage.com/track^$all
+
 ! Generic 1x1 pixel css selectors below 👇
 
 ! height: 0|1, width: 0|1 in style attribute in any order
@@ -90,4 +93,5 @@ x.gmtrack.net^$all
 ! height=0|1 width=0|1 attributes
 ##img[height^="0"][width^="0"]
 ##img[height^="1"][width^="1"]
+
 
