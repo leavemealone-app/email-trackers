@@ -12,6 +12,22 @@ Settings >Filter Lists > Import
 
 Add the link `https://cdn.leavemealone.app/tracker-blocklist.txt` and click "Apply Changes". The list is loaded from our CDN.
 
+You should now see the following;
+
+![image](https://user-images.githubusercontent.com/1462828/78050759-ec090180-73a6-11ea-866e-985acd658ffa.png)
+
+The list will be updated automatically with any changes ♥
+
+## Contributing
+
+Are we missing an email tracker? Please [open an issue](https://github.com/leavemealone-app/email-trackers/issues/new) with the name of the service and any links that you have to their tracking pixels.
+
+Thanks!
+
+## Attibution
+
+The original list was adapted from [UglyEmail's public email tracker list](https://github.com/OneClickLab/ugly-email-trackers).
+
 ---
 
 Created by [Leave Me Alone](https://leavemealone.app)
