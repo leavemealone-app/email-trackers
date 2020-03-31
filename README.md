@@ -24,7 +24,7 @@ Are we missing an email tracker? Please [open an issue](https://github.com/leave
 
 Thanks!
 
-## Attibution
+## Attribution
 
 The original list was adapted from [UglyEmail's public email tracker list](https://github.com/OneClickLab/ugly-email-trackers).
 
