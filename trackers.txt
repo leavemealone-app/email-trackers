@@ -89,10 +89,11 @@ list-manage.com/track^$all
 
 ! height: 0|1, width: 0|1 in style attribute in any order
 ##img[style*="height: 0"][style*="width: 0"]
-##img[style*="height: 1"][style*="width: 1"]
+##img[style*="height: 1px"][style*="width: 1px"]
 
 ! height=0|1 width=0|1 attributes
 ##img[height^="0"][width^="0"]
-##img[height^="1"][width^="1"]
+##img[height="1"][width="1"]
+##img[height="1px"][width="1px"]
 
 
