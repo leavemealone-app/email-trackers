@@ -27,6 +27,7 @@ mailfoogae.appspot.com^$all
 
 ! Hubspot (https://www.hubspot.com/)
 t.signauxtrois.com^$all
+t.sidekickopen77.com^$all
 
 ! MixMax (https://mixmax.com)
 track.mixmax.com^$all
