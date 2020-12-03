@@ -89,6 +89,9 @@ list-manage.com/track^$all
 !Rebump (https://rebump.com)
 rebump.cc/api/track^$all
 
+!AWS SES
+awstrack.me^$all
+
 ! Generic 1x1 pixel css selectors below 👇
 
 ! height: 0|1, width: 0|1 in style attribute in any order
