@@ -96,7 +96,7 @@ awstrack.me^$all
 nytimes.com/pixel^$image
 
 !ConvertKit
-open.convertkit^$image
+open.convertkit*.com^$image
 
   
 ! Generic 1x1 pixel css selectors below 👇
