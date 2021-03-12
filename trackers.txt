@@ -98,6 +98,9 @@ nytimes.com/pixel^$image
 !ConvertKit
 open.convertkit*.com^$image
 
+!Substack
+email.*.substack.com/o^$image
+
   
 ! Generic 1x1 pixel css selectors below 👇
 
