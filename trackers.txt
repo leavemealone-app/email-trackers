@@ -12,6 +12,7 @@
 /ut.php^$all
 /trk^$all
 /links.*/oo/^$all
+/o.gif^$image
 
 ! Bananatag (https://bananatag.com/)
 bl-1.com^$all
