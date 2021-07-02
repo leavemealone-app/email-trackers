@@ -49,6 +49,7 @@ tracking.cirrusinsight.com^$all
 ! Mailtrack (mailtrack.io)
 mltrk.io/pixel^$all
 mailtrack.io^$all
+mailtrack.io/trace^$all
 
 ! Marketo (marketo.com)
 toutapp.com^$all
